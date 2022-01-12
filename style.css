@@ -35,7 +35,7 @@ select {
   cursor: pointer;
   background-color: rgba(0, 0, 0, 0.3);
   height: 45px;
-  width: 150px;
+  width: 200px;
   padding: 10px;
   border: none;
   border-radius: 5px;
@@ -139,7 +139,7 @@ select:focus {
   width: 100vw;
   height: 100vh;
   color: #fff;
-  background: linear-gradient(-45deg, #FF6666, #FFCCE5, #E5FFCC, #E0E0E0);
+  background: linear-gradient(-45deg, #FF6666, #4a4946, #B7F5D8, #45a340);
   background-size: 400% 400%;
   -webkit-animation: Gradient 15s ease infinite;
           animation: Gradient 15s ease infinite;
@@ -174,3 +174,4 @@ select:focus {
     width: 120px;
   }
 }
+

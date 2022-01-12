@@ -526,7 +526,7 @@ window.onload = function() {
   };
   sprite = new Image();
   sprite.src =
-    "https://i.ibb.co/JpGt33L/game.png" +
+    "https://i.ibb.co/gr95n3T/Alice-removebg-preview.png" +
     "?" +
     new Date().getTime();
   sprite.setAttribute("crossOrigin", " ");
@@ -538,7 +538,7 @@ window.onload = function() {
   };
 
   finishSprite = new Image();
-  finishSprite.src = "https://i.ibb.co/F4gc7Gp/wallpaper-wiki-Starfield-universe-wallpaper-PIC-WPD00404.jpg"+
+  finishSprite.src = "https://i.ibb.co/V0F8z0M/alicerabitt-removebg-preview.png"+
   "?" +
   new Date().getTime();
   finishSprite.setAttribute("crossOrigin", " ");
